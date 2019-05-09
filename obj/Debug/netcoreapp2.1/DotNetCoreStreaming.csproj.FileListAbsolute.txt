@@ -1,0 +1,15 @@
+C:\Users\Thiago\Downloads\DotNetCoreStreaming-master\src\DotNetCoreStreaming\bin\Debug\netcoreapp2.1\DotNetCoreStreaming.deps.json
+C:\Users\Thiago\Downloads\DotNetCoreStreaming-master\src\DotNetCoreStreaming\bin\Debug\netcoreapp2.1\DotNetCoreStreaming.runtimeconfig.json
+C:\Users\Thiago\Downloads\DotNetCoreStreaming-master\src\DotNetCoreStreaming\bin\Debug\netcoreapp2.1\DotNetCoreStreaming.runtimeconfig.dev.json
+C:\Users\Thiago\Downloads\DotNetCoreStreaming-master\src\DotNetCoreStreaming\bin\Debug\netcoreapp2.1\DotNetCoreStreaming.dll
+C:\Users\Thiago\Downloads\DotNetCoreStreaming-master\src\DotNetCoreStreaming\bin\Debug\netcoreapp2.1\DotNetCoreStreaming.pdb
+C:\Users\Thiago\Downloads\DotNetCoreStreaming-master\src\DotNetCoreStreaming\obj\Debug\netcoreapp2.1\DotNetCoreStreaming.csprojAssemblyReference.cache
+C:\Users\Thiago\Downloads\DotNetCoreStreaming-master\src\DotNetCoreStreaming\obj\Debug\netcoreapp2.1\DotNetCoreStreaming.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\Downloads\DotNetCoreStreaming-master\src\DotNetCoreStreaming\obj\Debug\netcoreapp2.1\DotNetCoreStreaming.RazorAssemblyInfo.cache
+C:\Users\Thiago\Downloads\DotNetCoreStreaming-master\src\DotNetCoreStreaming\obj\Debug\netcoreapp2.1\DotNetCoreStreaming.RazorAssemblyInfo.cs
+C:\Users\Thiago\Downloads\DotNetCoreStreaming-master\src\DotNetCoreStreaming\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\Thiago\Downloads\DotNetCoreStreaming-master\src\DotNetCoreStreaming\obj\Debug\netcoreapp2.1\DotNetCoreStreaming.AssemblyInfoInputs.cache
+C:\Users\Thiago\Downloads\DotNetCoreStreaming-master\src\DotNetCoreStreaming\obj\Debug\netcoreapp2.1\DotNetCoreStreaming.AssemblyInfo.cs
+C:\Users\Thiago\Downloads\DotNetCoreStreaming-master\src\DotNetCoreStreaming\obj\Debug\netcoreapp2.1\DotNetCoreStreaming.RazorTargetAssemblyInfo.cache
+C:\Users\Thiago\Downloads\DotNetCoreStreaming-master\src\DotNetCoreStreaming\obj\Debug\netcoreapp2.1\DotNetCoreStreaming.dll
+C:\Users\Thiago\Downloads\DotNetCoreStreaming-master\src\DotNetCoreStreaming\obj\Debug\netcoreapp2.1\DotNetCoreStreaming.pdb
